@@ -13,6 +13,10 @@ function Intro(props) {
                         you lose a life.
                     </span>
                     <span>If you lose all 3 lives, the game ends.</span>
+                    <span>
+                        Program source is
+                        <a href="https://github.com/GinOwO/quiz-app"> here.</a>
+                    </span>
                 </div>
 
                 <button

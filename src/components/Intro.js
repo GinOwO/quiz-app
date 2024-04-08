@@ -15,7 +15,14 @@ function Intro(props) {
                     <span>If you lose all 3 lives, the game ends.</span>
                 </div>
 
-                <button onClick={() => props.setMode(1)}>Start</button>
+                <button
+                    onClick={() => {
+                        props.nextQuestion();
+                        props.setMode(1);
+                    }}
+                >
+                    Start
+                </button>
             </div>
         </div>
     );

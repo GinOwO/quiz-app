@@ -1,8 +1,8 @@
 import "./Question.css";
 
 function Question(props) {
-    const { idx, Question, judge } = props;
-    const { question, options } = Question;
+    let { idx, Question, judge } = props;
+    let { question, options, answer } = Question;
     return (
         <main>
             <div className="container">
@@ -23,6 +23,7 @@ function Question(props) {
                         {options[3]}
                     </li>
                 </ul>
+                <span id="status">{answer}</span>
             </div>
         </main>
     );

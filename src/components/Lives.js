@@ -1,10 +1,15 @@
 import "./Lives.css";
 
+function Heart() {
+    return <img src="heart.png" className="heart" alt="test" />;
+}
+
 function Lives(props) {
     return (
         <div className="lives">
-            <span>Lives: {props.lives}</span>
-            <img src="/public/heart.png" className="heart" alt="test" />
+            {Array.from({ length: props.lives }, (_, i) => (
+                <Heart key={i} />
+            ))}
         </div>
     );
 }

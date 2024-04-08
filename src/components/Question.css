@@ -1,0 +1,48 @@
+main {
+    height: 550px;
+    width: 700px;
+    background: rgb(220, 228, 230);
+    position: fixed;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    box-shadow: 0 0 30px 20px rgb(83, 83, 83);
+}
+
+.container {
+    margin: 30px;
+}
+
+.question {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.options {
+    list-style: none;
+    padding: 10px;
+}
+
+.option {
+    overflow-x: scroll;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 15px;
+    margin: 15px;
+}
+
+.next {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 15px;
+    margin: 15px;
+}

@@ -1,0 +1,273 @@
+{"quiz": [
+        {
+            "question": "What is the capital of France?",
+            "options": ["London", "Paris", "Berlin", "Rome"],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+            "answer": "Mars"
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": [
+                "Harper Lee",
+                "Stephen King",
+                "J.K. Rowling",
+                "Charles Dickens"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "CO2", "NaCl", "NH3"],
+            "answer": "H2O"
+        },
+        {
+            "question": "What is the tallest mammal?",
+            "options": ["Giraffe", "Elephant", "Whale", "Horse"],
+            "answer": "Giraffe"
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": ["China", "Japan", "South Korea", "Thailand"],
+            "answer": "Japan"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Pablo Picasso",
+                "Vincent van Gogh",
+                "Leonardo da Vinci",
+                "Michelangelo"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "Fe", "Cu"],
+            "answer": "Au"
+        },
+        {
+            "question": "Which of the following is not a primary color?",
+            "options": ["Red", "Blue", "Yellow", "Green"],
+            "answer": "Green"
+        },
+        {
+            "question": "Who wrote '1984'?",
+            "options": [
+                "George Orwell",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald",
+                "Jane Austen"
+            ],
+            "answer": "George Orwell"
+        },
+        {
+            "question": "Which element is essential for photosynthesis?",
+            "options": ["Oxygen", "Carbon", "Nitrogen", "Chlorophyll"],
+            "answer": "Carbon"
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "options": ["Heart", "Brain", "Skin", "Liver"],
+            "answer": "Skin"
+        },
+        {
+            "question": "Who is credited with the invention of the telephone?",
+            "options": [
+                "Alexander Graham Bell",
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Albert Einstein"
+            ],
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "William Shakespeare",
+                "Jane Austen",
+                "Charles Dickens",
+                "Emily Brontë"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "options": ["Fe", "Ir", "In", "I"],
+            "answer": "Fe"
+        },
+        {
+            "question": "Which continent is the least populated?",
+            "options": ["Asia", "Africa", "Europe", "Antarctica"],
+            "answer": "Antarctica"
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "options": [
+                "Alexander Fleming",
+                "Marie Curie",
+                "Louis Pasteur",
+                "Robert Koch"
+            ],
+            "answer": "Alexander Fleming"
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": [
+                "Mitochondria",
+                "Ribosome",
+                "Nucleus",
+                "Endoplasmic reticulum"
+            ],
+            "answer": "Mitochondria"
+        },
+        {
+            "question": "Which planet is known as the 'Morning Star' or the 'Evening Star'?",
+            "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+            "answer": "Venus"
+        },
+        {
+            "question": "Who won the FIFA World Cup in 2018?",
+            "options": ["Germany", "France", "Brazil", "Argentina"],
+            "answer": "France"
+        },
+        {
+            "question": "Who is the author of 'The Great Gatsby'?",
+            "options": [
+                "F. Scott Fitzgerald",
+                "Ernest Hemingway",
+                "Mark Twain",
+                "William Faulkner"
+            ],
+            "answer": "F. Scott Fitzgerald"
+        },
+        {
+            "question": "What is the chemical formula for table salt?",
+            "options": ["NaCl", "HCl", "NH3", "H2SO4"],
+            "answer": "NaCl"
+        },
+        {
+            "question": "Which is the longest river in the world?",
+            "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+            "answer": "Nile"
+        },
+        {
+            "question": "Who was the first woman to win a Nobel Prize?",
+            "options": [
+                "Marie Curie",
+                "Mother Teresa",
+                "Rosalind Franklin",
+                "Malala Yousafzai"
+            ],
+            "answer": "Marie Curie"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Diamond", "Iron", "Titanium", "Platinum"],
+            "answer": "Diamond"
+        },
+        {
+            "question": "Who is known as the 'Father of Modern Physics'?",
+            "options": [
+                "Isaac Newton",
+                "Galileo Galilei",
+                "Albert Einstein",
+                "Niels Bohr"
+            ],
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": ["Ag", "Si", "Sv", "Sr"],
+            "answer": "Ag"
+        },
+        {
+            "question": "Which is the largest bone in the human body?",
+            "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+            "answer": "Femur"
+        },
+        {
+            "question": "Who was the first man to step on the moon?",
+            "options": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "John Glenn"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "What is the chemical formula for ozone?",
+            "options": ["O3", "CO2", "NO2", "H2O2"],
+            "answer": "O3"
+        },
+        {
+            "question": "Which is the only mammal that can fly?",
+            "options": ["Bat", "Bird", "Penguin", "Flying Squirrel"],
+            "answer": "Bat"
+        },
+        {
+            "question": "Who wrote 'Pride and Prejudice'?",
+            "options": [
+                "Jane Austen",
+                "Charlotte Brontë",
+                "Emily Dickinson",
+                "George Eliot"
+            ],
+            "answer": "Jane Austen"
+        },
+        {
+            "question": "What is the chemical symbol for lead?",
+            "options": ["Pb", "Le", "Ld", "Pl"],
+            "answer": "Pb"
+        },
+        {
+            "question": "Which is the largest desert in the world?",
+            "options": ["Sahara", "Gobi", "Arabian", "Kalahari"],
+            "answer": "Sahara"
+        },
+        {
+            "question": "Who painted 'The Starry Night'?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "What is the chemical symbol for potassium?",
+            "options": ["K", "Ka", "Ke", "Kn"],
+            "answer": "K"
+        },
+        {
+            "question": "Who invented the light bulb?",
+            "options": [
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Benjamin Franklin",
+                "Alexander Graham Bell"
+            ],
+            "answer": "Thomas Edison"
+        },
+        {
+            "question": "What is the largest species of big cat?",
+            "options": ["Tiger", "Lion", "Leopard", "Cheetah"],
+            "answer": "Tiger"
+        }
+    ]
+}

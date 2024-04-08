@@ -1,0 +1,17 @@
+.lives {
+    display: flex;
+    justify-items: right;
+
+    margin-left: auto;
+    padding: 10px;
+
+    span {
+        color: white;
+    }
+}
+
+.heart {
+    height: 20px;
+    width: 20px;
+    object-fit: cover;
+}

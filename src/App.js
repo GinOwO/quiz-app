@@ -3,6 +3,8 @@ import "./App.css";
 
 import Question from "./components/Question";
 import Intro from "./components/Intro";
+import Lives from "./components/Lives";
+import Scores from "./components/Scores";
 
 async function fetchQuestions() {
     let response = await fetch("data/questions.json");
@@ -26,7 +28,8 @@ function App() {
         question: "",
         options: [],
     });
-    let [mode, setMode] = React.useState(1);
+    let [mode, setMode] = React.useState(0);
+    let [lives, setLives] = React.useState(3);
 
     let seen = new Set();
     const nextQuestion = () => {
@@ -57,7 +60,11 @@ function App() {
         <div>
             {mode === 0 && <Intro mode={mode} setMode={setMode} />}
             {mode === 1 && (
-                <Question idx={idx} Question={question} judge={judge} />
+                <div className="question-frame">
+                    <Scores score={score} />
+                    <Lives lives={lives} score={score} setMode={setMode} />
+                    <Question idx={idx} Question={question} judge={judge} />
+                </div>
             )}
         </div>
     );

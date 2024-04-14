@@ -72,7 +72,7 @@ function App() {
 
         setTimeout(() => {
             nextQuestion();
-        }, 1000);
+        }, 100);
     };
 
     const restart = () => {

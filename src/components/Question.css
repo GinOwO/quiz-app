@@ -38,6 +38,10 @@ main {
     &:hover {
         background: rgba(0, 128, 255, 0.176);
     }
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
 }
 
 .next {
